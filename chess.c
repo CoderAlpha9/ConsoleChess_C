@@ -26,7 +26,7 @@ Reference: Codes for pieces and colors
 */
 
 #include <stdio.h>
-#include "chess_fucntions.h"
+#include "chess_functions.h"
 
 //-----------------------main----------------------------
 void main()
